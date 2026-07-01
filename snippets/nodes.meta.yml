@@ -183,12 +183,13 @@ proxies:
   sni: rx.easyiran.org
   tls: false
   type: hysteria2
-- name: 💙18@oneclickvpnkeys
+- name: ♾️Join->🆔️@ATLAS_V2VPN🆓️🛜🔷️432...
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
   port: 443
   server: 2.26.49.16
+  skip-cert-verify: false
   sni: social.klipp.su
   tls: false
   type: hysteria2
@@ -221,7 +222,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 🇸🇪Sweeden 🇸🇪2
+- name: 🇸🇪Sweeden
   obfs: salamander
   obfs-password: t-me-v2rayyngvpn
   password: V2rayyNGvpn
@@ -354,12 +355,14 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: '@V2RAYBAZI'
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: https://www.silvercore.net
+- name: '@filembad'
+  obfs: salamander
+  obfs-password: 60wvbymjlc9zw3gk
+  password: zru63dr6vokx56iy
+  port: 52067
+  server: tr-1.metsima.com
+  skip-cert-verify: false
+  sni: tr-1.metsima.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
