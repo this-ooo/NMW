@@ -210,16 +210,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2rayng_Fast
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: NZC2w2V2NQ
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: '@AzarAndoozVPNbot #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -240,16 +230,6 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇩🇪Telegram=V2RayyNGvpn
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: V2RayyNGvpn-
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: '@Surfboardv2ray #1'
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
@@ -260,7 +240,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇩🇪114518 | ⚡️Telegram = t.me/S...
+- name: 🇩🇪 کانال ما 🔥@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: VpxzokH9V4
@@ -290,7 +270,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 🇩🇪114492 | ⚡️Telegram = t.me/S...
+- name: 🇩🇪 کانال ما ⭕@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: a6alb4YAgC
@@ -320,7 +300,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@bored_vpn #1'
+- name: '@Leecher56 #1'
   obfs: salamander
   obfs-password: cukfjxud1ebjuuzs
   password: elknam6l7izf3z71
@@ -350,6 +330,16 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🇩🇪 کانال ما ⚡@V2RayyNGvpn🇩🇪
+  obfs: salamander
+  obfs-password: T-ME-V2RayyNGvpn
+  password: p0IbtS8wCZ
+  port: 25810
+  server: 91.107.174.32
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: '@erfanandroid #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -360,7 +350,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 🇷🇺114508 | ⚡️Telegram = t.me/S...
+- name: ✅ t.me/bigAVPN ایران آزاد 👑
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
