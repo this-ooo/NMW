@@ -19,7 +19,6 @@ hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni
 hysteria2://5NLxoNSwj0@162.19.181.176:40837?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ger.leontunel.ru:443?insecure=0&sni=ger.leontunel.ru#Channel%20%3A%20%40Daily_Configs
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@popa.leontunel.ru:443?sni=popa.leontunel.ru#%F0%9F%A7%A936%40oneclickvpnkeys
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@soskeynets.leontunel.ru:443?sni=popa.leontunel.ru#%F0%9F%87%AC%F0%9F%87%A7120501%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
 hysteria2://73x493S1pE@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9D%97
 hysteria2://76TeSy4hi8@51.159.137.79:55809?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A8%F0%9F%87%B5%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%B5
 hysteria2://ALg6h4f8Mo@91.107.152.188:31999?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40AzarAndoozVPNbot
