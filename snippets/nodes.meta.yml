@@ -89,11 +89,12 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 🇭🇰 HK
-  password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
+- name: 🇳🇱
+  password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
   port: 443
-  server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
-  sni: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
+  server: 5.255.102.165
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: '@KAFING_2'
@@ -106,16 +107,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@vmess_ir'
-  obfs: salamander
-  obfs-password: mtg2vchyir6la3et
-  password: 4z2oldt85p494bgb
-  port: 52021
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '@vmesskhodam'
   obfs: salamander
   obfs-password: iknjsvsjagi449mm
@@ -126,7 +117,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@IRan_V2ray1 | VIP15'
+- name: ♾️Join->🆔️@ATLAS_V2VPN🆓️🛜🔷️491...
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
@@ -290,7 +281,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@mehrosaboran #1'
+- name: Proxy_mtm Channel 27
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -329,7 +320,7 @@ proxies:
   sni: gretacoin.shop
   tls: false
   type: hysteria2
-- name: '🇩🇪 t-me-V2RayyNGvpn 🇩🇪 #1'
+- name: MTMVPN Channel 15
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
   password: voQTxwGh4I
