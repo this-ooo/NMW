@@ -147,18 +147,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: f7jlf6m0hwvcl593
-  password: 0puq3lmwv7qtp76t
-  port: 52070
-  server: assets.gateway-stream.com
-  skip-cert-verify: true
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪3
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak

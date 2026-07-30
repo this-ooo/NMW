@@ -15,7 +15,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=0
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@178.215.238.30:443?sni=germany1.noesissite.ru#%F0%9F%A6%8435%40oneclickvpnkeys
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru#%F0%9F%90%B059%40oneclickvpnkeys
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#%F0%9F%87%AB%F0%9F%87%AE%40V2rayng_Fast
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52070?insecure=1&alpn=h3&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=f7jlf6m0hwvcl593#%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
 hysteria2://1Tm8undefinedEG5fl@91.107.178.22:443?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#%F0%9F%87%A9%F0%9F%87%AA%20Telegram%3D%20V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA3
 hysteria2://1ecqm05bcdfcckq5@apic.dnso.ccwu.cc:59265?insecure=1&sni=apic.dnso.ccwu.cc&obfs=salamander&obfs-password=bjmye80g9o99qohl#%F0%9F%90%B048%40oneclickvpnkeys
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?sni=prodfr.h2corp.org#%F0%9F%A6%8443%40oneclickvpnkeys
