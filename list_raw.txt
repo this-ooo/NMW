@@ -58,6 +58,7 @@ hysteria2://b8f1b61e-d5c4-4765-866d-ece1fc8e590b@104.165.205.226:9443?sni=oneclo
 hysteria2://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@usaw2.awo-link.com:14101?sni=usaw2.awo-link.com&obfs=salamander&obfs-password=XBvVbvzQCq6Ovbnh#%F0%9F%87%BA%F0%9F%87%B8US
 hysteria2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443?insecure=1&sni=quic.tyr-agentstvo.tech#%F0%9F%87%BA%F0%9F%87%B8US%20%231
 hysteria2://d1224950-ffab-4b9a-8696-431b40a6cfbd@bel-03.node.lumixnet.com:443?sni=bel-03.node.lumixnet.com#%E5%BE%B7%E5%9B%BD%20%232
+hysteria2://gf1@5.129.235.85:443?insecure=1&sni=www.linux.com#%E8%8D%B7%E5%85%B0%20%231
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443?sni=hopp-legend-se.roxa.org#%F0%9F%A4%9672%40oneclickvpnkeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%239
 hysteria2://0ansucp5k6aop125@185.47.172.226:32950?insecure=0&sni=185.47.172.226&obfs=salamander&obfs-password=dnwx30hvcobf7xcf#Proxy_mtm%206
