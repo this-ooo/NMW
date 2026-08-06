@@ -1,5 +1,5 @@
 proxies:
-- name: 德国
+- name: 🪁50@oneclickvpnkeys
   password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
   port: 443
   server: node-degame.bangboonet.ru
@@ -34,6 +34,14 @@ proxies:
   sni: de2.sunconnecthub.com
   tls: false
   type: hysteria2
+- name: 🇩🇪DE
+  password: 9d3356a0-c07e-43cc-b30e-450bd50521b8
+  port: 2056
+  server: dg1.mangshe.xyz
+  skip-cert-verify: true
+  sni: dg1.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: '🇩🇪德国 #2'
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
@@ -57,6 +65,13 @@ proxies:
   port: 443
   server: bel-03.node.lumixnet.com
   sni: bel-03.node.lumixnet.com
+  tls: false
+  type: hysteria2
+- name: '🇩🇪135238 | ⚡️Telegram = t.me/S... #1'
+  password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
+  port: 443
+  server: soskeynets-degame.bangboonet.ru
+  sni: node-degame.bangboonet.ru
   tls: false
   type: hysteria2
 - alpn:
