@@ -23,7 +23,6 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecu
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?insecure=1&sni=nl8.mechvpn.online#%E8%8D%B7%E5%85%B0%20%234
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us54.mechvpn.online:443?sni=us54.mechvpn.online#%E7%91%9E%E5%85%B8
 hysteria2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443?insecure=1&sni=srvhy1.ezcon24.online#%F0%9F%87%BA%F0%9F%87%B8US
-hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%40meliproxyy
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443?insecure=0&sni=gorbachev-th.kvnfreetest.uk#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%20MTMVPN%2014
 hysteria2://85a88b70b5f2f73d0dcac92bd3934a5e@211.22.154.26:50160?sni=211-22-154-26.liao.kdns.fr#%E5%8F%B0%E6%B9%BE
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@176.124.222.180:8443?sni=j47lq.pleiades.codes#%E4%BF%84%E7%BD%97%E6%96%AF
@@ -86,6 +85,7 @@ hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl174.mechvpn.online:443?insecu
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@nl8.mechvpn.online:443?insecure=1&alpn=h3&sni=nl8.mechvpn.online#%F0%9F%87%B3%F0%9F%87%B1%7CNL%7C%40wxgqlfx%7C233
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us63.mechvpn.online:443?insecure=1&sni=us63.mechvpn.online#%F0%9F%87%B8%F0%9F%87%AA%7CSE%7C%40wxgqlfx%7C238
 hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us65.mechvpn.online:443?insecure=1&sni=us65.mechvpn.online#%F0%9F%87%B8%F0%9F%87%AA%7CSE%7C%40wxgqlfx%7C213
+hysteria2://6aab8efdf13945829ae3699c342be406@fiproxy1.lockdwn.com:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%40meliproxyy
 hysteria2://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv21.strettenvpn.com:443?insecure=1&sni=serv21.strettenvpn.com#%F0%9F%87%AB%F0%9F%87%AE%7CFI%7C%40wxgqlfx%7C222
 hysteria2://725bc0b69e720cd5a2cd209252507c6e@94-229-64-108.liao.kdns.fr:50160?insecure=1&sni=94-229-64-108.liao.kdns.fr#%F0%9F%87%AC%F0%9F%87%A7%7CGB%7C%40wxgqlfx%7C19
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#%F0%9F%A6%8194%40oneclickvpnkeys
