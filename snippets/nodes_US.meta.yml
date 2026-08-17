@@ -62,6 +62,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸|US|@wxgqlfx|251
+  password: 133f76fc-a5ab-463e-b46d-9587d7137e55
+  port: 443
+  server: node3.vpnushka.lol
+  skip-cert-verify: true
+  sni: node3.vpnushka.lol
+  tls: false
+  type: hysteria2
 - name: 美国1@wxgqlfx#3🦁@oneclickvpnkeys
   password: 76c1579d-e996-473c-b23f-2c8301082602
   port: 11683
