@@ -99,16 +99,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🔰 @prrofile_purple (تلگرام)
-  obfs: salamander
-  obfs-password: qkdqum5rllpyup7h
-  password: dfo5i9p6payp29i0
-  port: 22357
-  server: ll5xoe8j.easyiran.org
-  skip-cert-verify: false
-  sni: ll5xoe8j.easyiran.org
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -345,14 +335,14 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 🇳🇱200697 | ⚡️Telegram = t.me/S...
+- name: 🔰 @prrofile_purple (تلگرام)
   obfs: salamander
-  obfs-password: ypvL8T4HFIBLoH8q
-  password: capadm54312235
-  port: 443
-  server: 51.15.16.68
-  skip-cert-verify: true
-  sni: vpn.local
+  obfs-password: qkdqum5rllpyup7h
+  password: dfo5i9p6payp29i0
+  port: 22357
+  server: ll5xoe8j.easyiran.org
+  skip-cert-verify: false
+  sni: ll5xoe8j.easyiran.org
   tls: false
   type: hysteria2
 - name: '@vmess_ir'
