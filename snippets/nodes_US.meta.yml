@@ -14,6 +14,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸210305 | ⚡️Telegram = t.me/L...
+  password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
+  port: 20445
+  server: 88.216.183.164
+  skip-cert-verify: false
+  sni: hy51290d-3.w-mebel.pro
+  tls: false
+  type: hysteria2
 - alpn:
   - http/1.1
   client-fingerprint: firefox
