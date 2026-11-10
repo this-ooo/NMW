@@ -1,4 +1,11 @@
 proxies:
+- name: 🇷🇺211060 | ⚡️Telegram = t.me/L...
+  password: kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU
+  port: 5443
+  server: 84.252.100.138
+  sni: nl.vip-get.ru
+  tls: false
+  type: hysteria2
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
   name: RU_speednode_0029
