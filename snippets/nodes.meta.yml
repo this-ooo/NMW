@@ -130,7 +130,14 @@ proxies:
   sni: hank.hankli1214.xyz
   tls: false
   type: hysteria2
-- name: '@V2ray_confiig'
+- name: '@meliproxyy'
+  password: 54d2f622-fd71-4f5f-8813-832b68f4ca3b
+  port: 8443
+  server: 104.165.205.42
+  sni: speedtestmark.com
+  tls: false
+  type: hysteria2
+- name: '@V2ray_confiig #1'
   obfs: salamander
   obfs-password: 7922smqtd5qm70fu
   password: 5icixgawam84vgrp
@@ -160,12 +167,18 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 🇫🇮6@exclavevpn
-  password: 95c61940-2823-4665-a033-d4f2218329b6
-  port: 443
-  server: 46.8.210.209
-  skip-cert-verify: true
-  sni: ru3.kinotorg.net
+- alpn:
+  - h3
+  - h2
+  - http/1.1
+  fingerprint: chrome
+  name: 🇮🇷211633 | ⚡️Telegram = t.me/L...
+  obfs: salamander
+  obfs-password: TYrQkc4C2MJMKlzlge0M_hrH
+  password: EOaHwQIGHSjmsbYl_g6nPanNsQ2td2Yv
+  port: 8443
+  server: ip.immahan.ir
+  sni: tr.tu5pars.ir
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -215,6 +228,15 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
+- name: '@V2rayNPVTConfig'
+  obfs: salamander
+  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
+  password: UrKhE2HmJfmWi5Iuotyumfo2ZZUHPEAL
+  port: 443
+  server: proel.jetservistr.ir
+  sni: wufpel.ir
+  tls: false
+  type: hysteria2
 - name: 'Telegram@vpnjey #3'
   obfs: salamander
   obfs-password: Telegram@vpnjey
@@ -251,6 +273,14 @@ proxies:
   sni: pl1.nexfile.net
   tls: false
   type: hysteria2
+- name: 'برای اتصال دائمی جوین شو🫟 Tele... #1'
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.105
+  skip-cert-verify: false
+  sni: pl2.nexfile.net
+  tls: false
+  type: hysteria2
 - name: برای اتصال دائمی جوین شو☄️ Tel...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
@@ -267,7 +297,15 @@ proxies:
   sni: pl3.nexfile.net
   tls: false
   type: hysteria2
-- name: 'برای اتصال دائمی جوین شو☄️ Tel... #2'
+- name: 🇵🇱211542 | ⚡️Telegram = t.me/L...
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.146
+  skip-cert-verify: false
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: 🇵🇱211545 | ⚡️Telegram = t.me/L...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.147
@@ -281,6 +319,20 @@ proxies:
   server: 13.143.189.149
   skip-cert-verify: false
   sni: pl2.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '@meliproxyy #1'
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 13.143.189.71
+  sni: pl3.nexfile.net
+  tls: false
+  type: hysteria2
+- name: '@meliproxyy #2'
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 31.76.62.148
+  sni: lv2.nexfile.net
   tls: false
   type: hysteria2
 - name: '@KAFING_2'
@@ -303,7 +355,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '@V2rayNGVPN > کانفیگ رایگان'
+- name: 'برای اتصال دائمی جوین شو☄️ Tel... #4'
   obfs: salamander
   obfs-password: 7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9
   password: eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ
@@ -311,15 +363,6 @@ proxies:
   server: 152.32.254.68
   skip-cert-verify: false
   sni: nas.aizhzo.com
-  tls: false
-  type: hysteria2
-- name: 'Channel : @Daily_Configs'
-  obfs: salamander
-  obfs-password: 7922smqtd5qm70fu
-  password: h05ff7mbgbj6dhwy
-  port: 2098
-  server: vip.trapxan.ir
-  sni: vip.trapxan.ir
   tls: false
   type: hysteria2
 - name: '@confiig_hub #1'
