@@ -89,29 +89,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: 🇺🇸 7@exclavevpn
-  password: 146d567c-6335-4e63-a8aa-7ec068642440
-  port: 443
-  server: fi1.obxodvpn.us
-  sni: fi1.obxodvpn.us
-  tls: false
-  type: hysteria2
-- name: 🇯🇵 10@exclavevpn
-  password: '1794466637'
-  port: 443
-  server: 31.76.91.168
-  skip-cert-verify: true
-  sni: jp.lumacache.com
-  tls: false
-  type: hysteria2
-- name: 🇸🇬 8@exclavevpn
-  password: 4fa0ca1b-0742-419d-8fd2-3f698e06b206
-  port: 20443
-  server: 84.32.23.62
-  skip-cert-verify: true
-  sni: hy530899-3.w-mebel.pro
-  tls: false
-  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -204,15 +181,6 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: '@V2rayNPVTConfig'
-  obfs: salamander
-  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
-  password: UrKhE2HmJfmWi5Iuotyumfo2ZZUHPEAL
-  port: 443
-  server: proel.jetservistr.ir
-  sni: wufpel.ir
-  tls: false
-  type: hysteria2
 - name: 'Telegram@vpnjey #3'
   obfs: salamander
   obfs-password: Telegram@vpnjey
@@ -233,6 +201,14 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
+- name: 🗼31@oneclickvpnkeys
+  password: a2c74ce7-5daa-4bee-a1eb-52863873b3c3
+  port: 443
+  server: 194.48.250.233
+  skip-cert-verify: true
+  sni: mol.ultimagamest.com
+  tls: false
+  type: hysteria2
 - name: برای اتصال دائمی جوین شو🍥 Tele...
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
@@ -249,7 +225,7 @@ proxies:
   sni: pl1.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱211746 | ⚡️Telegram = t.me/L...
+- name: 'برای اتصال دائمی جوین شو🫟 Tele... #1'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.105
@@ -265,7 +241,7 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱211805 | ⚡️Telegram = t.me/L...
+- name: '@V2rayNGVPN > کانفیگ رایگان'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.142
@@ -289,7 +265,7 @@ proxies:
   sni: pl2.nexfile.net
   tls: false
   type: hysteria2
-- name: 🇵🇱211920 | ⚡️Telegram = t.me/L...
+- name: 'برای اتصال دائمی جوین شو☄️ Tel... #3'
   password: a35c508f-4d5d-4531-842e-6e9d43c762c0
   port: 4444
   server: 13.143.189.149
@@ -341,17 +317,7 @@ proxies:
   sni: nas.aizhzo.com
   tls: false
   type: hysteria2
-- fingerprint: chrome
-  name: 🇮🇷IR-🚀@VPNine1
-  obfs: salamander
-  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
-  password: ogM_2gHx3Zs4RiT9obZV45bsp9-5HzW7
-  port: 443
-  server: proel.jetservistr.ir
-  sni: wufpel.ir
-  tls: false
-  type: hysteria2
-- name: '@confiig_hub #1'
+- name: '@vpnbaz'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR

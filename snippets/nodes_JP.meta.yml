@@ -1,12 +1,4 @@
 proxies:
-- name: 🇯🇵 10@exclavevpn
-  password: '!!str 1794466637'
-  port: 443
-  server: 31.76.91.168
-  skip-cert-verify: true
-  sni: jp.lumacache.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 日本|@ripaojiedian
