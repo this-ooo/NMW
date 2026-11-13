@@ -15,6 +15,16 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 🇺🇸214009 | ⚡️Telegram = t.me/L...
+  password: a35c508f-4d5d-4531-842e-6e9d43c762c0
+  port: 4444
+  server: 48.102.214.167
+  skip-cert-verify: false
+  sni: fl5.edgeport.cloud
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 美国|@ripaojiedian
