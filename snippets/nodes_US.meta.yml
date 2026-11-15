@@ -15,14 +15,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇺🇸US-🚀@VPNine1
-  password: yO8pug5XmwkBXBAjleYIaVt
-  port: 443
-  server: 192.255.152.147
-  skip-cert-verify: true
-  sni: 192.255.152.147
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
   name: 美国|@ripaojiedian
