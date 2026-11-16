@@ -1,4 +1,11 @@
 proxies:
+- name: 🇩🇪216664 | ⚡️Telegram = t.me/L...
+  password: 833539ec-fbba-40e8-ba6c-ac31bf6b3b4c
+  port: 443
+  server: 144.31.168.201
+  sni: fastconv-mirror.ru
+  tls: false
+  type: hysteria2
 - name: 🇩🇪216655 | ⚡️Telegram = t.me/L...
   password: e45c1654-9184-40c7-b68b-2929ce2a0a89
   port: 443
