@@ -1,12 +1,4 @@
 proxies:
-- name: 🇩🇪216914 | ⚡️Telegram = t.me/L...
-  password: R1jGEIdkkdgxUmduZjeR1Pfi
-  port: 18888
-  server: 89.144.8.91
-  skip-cert-verify: false
-  sni: pic.bstarstatic.com
-  tls: false
-  type: hysteria2
 - name: DE_speednode_0004
   port: 443
   server: 213.109.163.119
