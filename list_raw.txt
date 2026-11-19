@@ -19,7 +19,6 @@ hysteria2://3a17ce52-4547-45aa-9820-a7d03ad5faca@45.86.74.193:443?sni=media.embr
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@212.34.137.105:443?insecure=1&sni=shorts.blog-forme.ru#%40OutlineReleasedKey%20%233
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433?fp=chrome&sni=lakes.blog-forme.ru#%40OutlineReleasedKey%20%234
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@guide.blog-forme.ru:443?#%40OutlineReleasedKey%20%235
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#%40vpnsal
 hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?insecure=0&sni=109.70.74.213&obfs=salamander&obfs-password=7922smqtd5qm70fu#Telegram%20%20%E2%9A%9C%EF%B8%8FJoin%20-%3E%20%40tik7net_v...
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#Telegram%3A%40v2rayng3
 hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@18.143.176.12:443?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC214601%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/v...

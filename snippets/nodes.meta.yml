@@ -168,13 +168,6 @@ proxies:
   server: guide.blog-forme.ru
   tls: false
   type: hysteria2
-- name: '@vpnsal'
-  password: 54d2f622-fd71-4f5f-8813-832b68f4ca3b
-  port: 8443
-  server: 104.165.205.42
-  sni: speedtestmark.com
-  tls: false
-  type: hysteria2
 - name: Telegram  ⚜️Join -> @tik7net_v...
   obfs: salamander
   obfs-password: 7922smqtd5qm70fu
