@@ -1,15 +1,1 @@
-proxies:
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  fingerprint: chrome
-  name: 🇸🇪226616 | ⚡️Telegram = t.me/L...
-  obfs: salamander
-  obfs-password: anhzfr8jwm3m1cb0
-  password: fup6jqo76blcumls
-  port: 33971
-  server: 13.53.131.128
-  sni: se.accuratenetworkchecker.ir
-  tls: false
-  type: hysteria2
+proxies: []

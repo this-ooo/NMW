@@ -1,18 +1,19 @@
 proxies:
+- name: ' 🇺🇸 23@exclavevpn'
+  obfs: salamander
+  obfs-password: re61ep4ancwplwh8
+  password: 57beeeb0-03fc-4fc9-94da-7604488a7134
+  port: 40055
+  server: 154.40.49.216
+  sni: psstatic.cdn.bcebos.com
+  tls: false
+  type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 54.213.89.22
   skip-cert-verify: true
   sni: vk.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸226662 | ⚡️Telegram = t.me/L...
-  password: YourStrongPasswordHere123!
-  port: 443
-  server: 100.62.81.246
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
