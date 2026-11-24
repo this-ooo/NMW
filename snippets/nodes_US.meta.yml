@@ -5,6 +5,7 @@ proxies:
   password: 57beeeb0-03fc-4fc9-94da-7604488a7134
   port: 40055
   server: 154.40.49.216
+  skip-cert-verify: true
   sni: psstatic.cdn.bcebos.com
   tls: false
   type: hysteria2

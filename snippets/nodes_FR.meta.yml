@@ -1,4 +1,12 @@
 proxies:
+- name: 🇫🇷24@exclavevpn
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 13.36.234.11
+  skip-cert-verify: true
+  sni: vpn-fr-001.fastervpn.world
+  tls: false
+  type: hysteria2
 - name: FR_speednode_0007
   port: 6103
   server: 87.98.174.157
