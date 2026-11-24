@@ -109,5 +109,5 @@ https://:None@193.176.84.24:9002
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?allowInsecure=0&sni=swdist.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#TW_speednode_0026
 https://172.64.69.89:443
 anytls://0324fbc29561@a54ge.df6h451rh.xin:443/?insecure=1&sni=docs.microsoft.com&fp=chrome#%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
-anytls://0324fbc29561@5641sdds.df6h451rh.xin:443/?insecure=1&sni=images.ctfassets.net&fp=chrome#%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 anytls://2902c46c8493@ibsdsf.df6h451rh.xin:443/?insecure=1&sni=docs.microsoft.com&fp=chrome#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+anytls://0324fbc29561@5641sdds.df6h451rh.xin:443/?insecure=1&sni=images.ctfassets.net&fp=chrome#%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
