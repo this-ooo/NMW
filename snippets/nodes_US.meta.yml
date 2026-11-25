@@ -17,6 +17,15 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🇺🇸230629 | ⚡️Telegram = t.me/L...
+  obfs: salamander
+  obfs-password: 7922smqtd5qm70fu
+  password: 5ictxgawam84vgrp
+  port: 2098
+  server: 107.181.112.141
+  sni: 107.181.112.141
+  tls: false
+  type: hysteria2
 - client-fingerprint: chrome
   name: 🇺🇸 美国|@ripaojiedian
   network: ws
@@ -38,6 +47,57 @@ proxies:
     path: /ws
     v2ray-http-upgrade: false
 - client-fingerprint: chrome
+  name: 🇺🇸 美国2|@ripaojiedian
+  network: ws
+  port: 8443
+  server: 179.255.132.42
+  servername: senflarelink-node-71i.pages.dev
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: b69cf773-da16-486e-afce-a45b94f998b3
+  ws-opts:
+    headers:
+      Host: senflarelink-node-71i.pages.dev
+    path: /
+    v2ray-http-upgrade: false
+- client-fingerprint: chrome
+  name: 🇺🇸 美国3|@ripaojiedian
+  network: ws
+  port: 8443
+  server: 95.169.13.59
+  servername: senflarelink-node-m3bfbn.pages.dev
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: b69cf773-da16-486e-afce-a45b94f998b3
+  ws-opts:
+    headers:
+      Host: senflarelink-node-m3bfbn.pages.dev
+    path: /
+    v2ray-http-upgrade: false
+- client-fingerprint: chrome
+  name: 🇺🇸 美国4|@ripaojiedian
+  network: ws
+  port: 8443
+  server: 179.255.137.204
+  servername: senflarelink-node-xfcyh2.pages.dev
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: b69cf773-da16-486e-afce-a45b94f998b3
+  ws-opts:
+    headers:
+      Host: senflarelink-node-xfcyh2.pages.dev
+    path: /
+    v2ray-http-upgrade: false
+- client-fingerprint: chrome
   flow: ''
   name: 美国|@ripaojiedian
   network: ws
@@ -54,6 +114,48 @@ proxies:
     headers:
       Host: itunes.apple.com
     path: '%2Fws'
+- client-fingerprint: chrome
+  flow: ''
+  name: 美国2|@ripaojiedian
+  network: ws
+  port: 8443
+  server: 179.255.132.42
+  servername: senflarelink-node-71i.pages.dev
+  tls: true
+  type: vless
+  uuid: b69cf773-da16-486e-afce-a45b94f998b3
+  ws-opts:
+    headers:
+      Host: senflarelink-node-71i.pages.dev
+    path: '%2F'
+- client-fingerprint: chrome
+  flow: ''
+  name: 美国3|@ripaojiedian
+  network: ws
+  port: 8443
+  server: 95.169.13.59
+  servername: senflarelink-node-m3bfbn.pages.dev
+  tls: true
+  type: vless
+  uuid: b69cf773-da16-486e-afce-a45b94f998b3
+  ws-opts:
+    headers:
+      Host: senflarelink-node-m3bfbn.pages.dev
+    path: '%2F'
+- client-fingerprint: chrome
+  flow: ''
+  name: 美国4|@ripaojiedian
+  network: ws
+  port: 8443
+  server: 179.255.137.204
+  servername: senflarelink-node-xfcyh2.pages.dev
+  tls: true
+  type: vless
+  uuid: b69cf773-da16-486e-afce-a45b94f998b3
+  ws-opts:
+    headers:
+      Host: senflarelink-node-xfcyh2.pages.dev
+    path: '%2F'
 - name: US_speednode_0027
   port: 443
   server: 172.64.69.89
