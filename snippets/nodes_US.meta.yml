@@ -17,14 +17,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇺🇸231154 | ⚡️Telegram = t.me/L...
-  password: EelIYEc5ZR8RT6thWcK9ohYkp3bYZGcn
-  port: 28795
-  server: 137.175.93.155
-  skip-cert-verify: true
-  sni: www.microsoft.com
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   name: 🇺🇸 美国|@ripaojiedian
   network: ws
