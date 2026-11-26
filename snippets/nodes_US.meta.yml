@@ -17,20 +17,12 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: 🇺🇸230832 | ⚡️Telegram = t.me/L...
-  password: 0b396097d052915ef304b40d2bda6a2d
-  port: 8443
-  server: 179.254.94.184
+- name: 🇺🇸231154 | ⚡️Telegram = t.me/L...
+  password: EelIYEc5ZR8RT6thWcK9ohYkp3bYZGcn
+  port: 28795
+  server: 137.175.93.155
   skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸230834 | ⚡️Telegram = t.me/L...
-  password: AIcYjw5Oc9Rrrr9SGDUBbBIC
-  port: 36712
-  server: 38.76.150.108
-  skip-cert-verify: true
-  sni: 'off'
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
