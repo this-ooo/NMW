@@ -16,7 +16,7 @@ proxies:
   sni: de1-balance.rezproffx.ru
   tls: false
   type: hysteria2
-- name: '@VPsave'
+- name: '🇺🇸 27@exclavevpn #1'
   password: 6ac6d17d-040c-4fab-940e-8f5d72c3fed6
   port: 443
   server: 135.126.21.107

@@ -1,9 +1,1 @@
-proxies:
-- name: 🇰🇷KR-🚀@VPNine1
-  password: 7e68e32f-8015-4f37-9082-70e8b0b58043
-  port: 443
-  server: 3.38.208.216
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
+proxies: []
